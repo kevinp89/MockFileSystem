@@ -1,0 +1,2 @@
+javac -d bin/ driver/JShell.java
+java -cp bin/ driver.JShell
